@@ -73,8 +73,6 @@
 //    [UMConfigure initWithAppkey:UMKey channel:@"App Store"];
    
     NSLog(@"%@",@"456");
-    NSLog(@"%@",@"123");
-    NSLog(@"%@",@"789");
     return YES;
 }
 

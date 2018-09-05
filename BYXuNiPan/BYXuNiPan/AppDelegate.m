@@ -72,6 +72,7 @@
 //    [UMConfigure setLogEnabled:YES];//设置打开日志
 //    [UMConfigure initWithAppkey:UMKey channel:@"App Store"];
    
+    NSLog(@"%@",@"456");
 
     
     return YES;
